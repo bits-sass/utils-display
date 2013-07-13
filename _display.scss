@@ -3,25 +3,35 @@
    ========================================================================== */
 
 /**
+ * Variables
+ *
+ * It is recommended to override these.
+ *
+ * 1. Namespace of bits.css's classes.
+ */
+
+$bits-ns: 'bits-' !default; /* 1 */
+
+/**
  * Display-type utilities
  */
 
-.u-inline {
+.#{$bits-ns}u-inline {
   display: inline !important;
 }
 
-.u-inlineBlock {
+.#{$bits-ns}u-inlineBlock {
   display: inline-block !important;
 }
 
-.u-block {
+.#{$bits-ns}u-block {
   display: block !important;
 }
 
-.u-table {
+.#{$bits-ns}u-table {
   display: table !important;
 }
 
-.u-tableCell {
+.#{$bits-ns}u-tableCell {
   display: table-cell !important;
 }
