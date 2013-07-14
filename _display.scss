@@ -7,31 +7,31 @@
  *
  * It is recommended to override these.
  *
- * 1. Namespace of bits.css's classes.
+ * 1. Utility namespace.
  */
 
-$bits-ns: 'bits-' !default; /* 1 */
+$bits-utils-ns: 'bits-' !default; /* 1 */
 
 /**
  * Display-type utilities
  */
 
-.#{$bits-ns}u-inline {
+.#{$bits-utils-ns}u-inline {
   display: inline !important;
 }
 
-.#{$bits-ns}u-inlineBlock {
+.#{$bits-utils-ns}u-inlineBlock {
   display: inline-block !important;
 }
 
-.#{$bits-ns}u-block {
+.#{$bits-utils-ns}u-block {
   display: block !important;
 }
 
-.#{$bits-ns}u-table {
+.#{$bits-utils-ns}u-table {
   display: table !important;
 }
 
-.#{$bits-ns}u-tableCell {
+.#{$bits-utils-ns}u-tableCell {
   display: table-cell !important;
 }
