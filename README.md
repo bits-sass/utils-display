@@ -1,18 +1,18 @@
-# Bits.css utilities: display
+# Bits.scss utilities: display
 
-Utility classes for display-related CSS. See [other utilities](https://github.com/bits-css/utils).
+Utility classes for display-related CSS. See [other utilities](https://github.com/bits-scss/utils).
 
-Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
+Read more about [Bits.scss toolkit](https://github.com/bits-scss/bits.scss).
 
 ## Installation
 
-* __Bower:__ `bower install --save bits-css-utils-display`
-* __Download:__ [zip](https://github.com/bits-css/utils-display/zipball/master), [tar.gz](https://github.com/bits-css/utils-display/tarball/master)
-* __Git:__ `git clone https://github.com/bits-css/utils-display.git`
+* __Bower:__ `bower install --save bits-scss-utils-display`
+* __Download:__ [zip](https://github.com/bits-scss/utils-display/zipball/master), [tar.gz](https://github.com/bits-scss/utils-display/tarball/master)
+* __Git:__ `git clone https://github.com/bits-scss/utils-display.git`
 
 ## Available SASS variables
 
-* `bits-ns` - namespace of bits.css's classes
+* `bits-utils-ns` - utilities namespace, defaults to 'bits-'
 
 ## Available utility classes
 
