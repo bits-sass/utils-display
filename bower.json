@@ -1,6 +1,6 @@
 {
   "name": "bits-sass-utils-display",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Lukáš Mladý",
   "main": "_display.scss"
 }

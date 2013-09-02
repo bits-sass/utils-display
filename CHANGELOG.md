@@ -1,5 +1,7 @@
 === HEAD
 
+=== 0.3.2 (September 2, 2013)
+
 * Use new style for comments
 
 === 0.3.1 (July 20, 2013)
