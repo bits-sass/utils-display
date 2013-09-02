@@ -1,5 +1,7 @@
 === HEAD
 
+* Use new style for comments
+
 === 0.3.1 (July 20, 2013)
 
 * Rename organization's name to 'Bits.sass'
